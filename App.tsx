@@ -140,7 +140,7 @@ const App: React.FC = () => {
               <div className="flex items-center gap-8 pt-4">
                 <div className="text-center sm:text-left">
                   <div className="text-2xl font-bold text-slate-900">
-                    5+ Years
+                    6+ Years
                   </div>
                   <div className="text-slate-500 text-sm">Experience</div>
                 </div>
