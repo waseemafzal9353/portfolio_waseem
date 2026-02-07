@@ -426,7 +426,7 @@ const App: React.FC = () => {
                 Reliable Delivery
               </h4>
               <p className="text-slate-600">
-               Clear timelines, disciplined execution, and proactive communication ensure your project stays on track.
+               Clear timelines, disciplined execution, proactive communication, and regular progress updates ensure your project stays on track from kickoff to delivery.
               </p>
             </div>
             <div>
